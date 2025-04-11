@@ -1,9 +1,9 @@
-Tobias Welling Hansen
+Tobias Welling Hansen.
 
-Christian Høj
+Christian Høj.
 
-Peter Janas
+Peter Janas.
 
-Masih Bijan Kabiri
+Masih Bijan Kabiri.
 
-Umair Tafail
+Umair Tafail.
