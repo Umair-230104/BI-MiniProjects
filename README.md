@@ -1,3 +1,5 @@
+-- Please refer to the following branches for the mini project tasks --
+
 Tobias Welling Hansen - cph-th401@cphbusiness.dk
 
 Christian Høj - 
