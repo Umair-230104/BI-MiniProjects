@@ -1,9 +1,9 @@
-Tobias Welling Hansen.
+Tobias Welling Hansen - cph-th401@cphbusiness.dk
 
-Christian Høj.
+Christian Høj - 
 
-Peter Janas.
+Peter Janas - cph-pj282@cphbusiness.dk
 
-Masih Bijan Kabiri.
+Masih Bijan Kabiri - cph-mk330@cphbusiness.dk
 
-Umair Tafail.
+Umair Tafail - cph-ut38@cphbusiness.dk
