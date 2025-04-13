@@ -1,4 +1,1 @@
-We utilized data ingestion to efficiently collect raw data from multiple sources, followed by data cleaning to ensure the quality and consistency of the data. 
-This process involved handling missing values, removing duplicates, and correcting errors to prepare the data for analysis.
-
-we also extracted unstructured data from an image with an AI model using Ollama.
+We utilized data ingestion to efficiently collect raw data from multiple sources, followed by data cleaning to ensure quality and consistency. This process included handling missing values, removing duplicates, and extracting unstructured data from an image using an AI model through Ollama.
