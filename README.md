@@ -2,7 +2,7 @@
 
 Tobias Welling Hansen - cph-th401@cphbusiness.dk
 
-Christian Høj - 
+Christian Høj - cph-ch633@cphbusiness.dk
 
 Peter Janas - cph-pj282@cphbusiness.dk
 
