@@ -1,5 +1,14 @@
 Tekst til opgave
 
+
+
+Task 4
+Dependent variable: quality
+Independent variables: 
+fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, 
+total sulfur dioxide, density, pH, sulphates, alcohol	
+
+
 Task 7 
 
 In the task we use the mean() method to calcuulate the averages and then created diagrams by using matplotlib.
@@ -18,4 +27,10 @@ Even high-sugar wines don’t consistently have higher quality.
 Alcohol content does appear to positively influence wine quality.
 Especially when it’s in the 11–14% range.
 But more in white win where high-quality ratings (8–9) are more frequent with higher alcohol percentages.
+
+
+Task 12
+
+residual sugar, total sulfur dioxide, pH and sulphates are dropped as they have weak correlation under 0.05
+there are no highly correlated attributes the highest alchohol with 0.48 which is not high enough to worry about.
 
