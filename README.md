@@ -29,6 +29,14 @@ Especially when it’s in the 11–14% range.
 But more in white win where high-quality ratings (8–9) are more frequent with higher alcohol percentages.
 
 
+Task 9
+
+We have divided the wine's pH values into 5 and 10 equal intervals (bins), respectively, to get a better overview of how the acidity is distributed. The results show that the vast majority of wines have a pH value between approximately 3.1 and 3.5, which means that most wines have a moderate level of acidity. The 5-bin division provides a quick overview, while the 10-bin division shows a more detailed distribution.
+
+The bar charts visualize these divisions. The chart with 5 bins clearly shows that most wines fall within the first two intervals, while the chart with 10 bins offers a finer breakdown and shows a more even distribution across a slightly broader range. Both charts help in understanding the pH distribution and how the wines are positioned relative to each other.
+
+This insight can be useful for both wine producers and consumers who are interested in the role of acidity in the taste of wine.
+
 Task 12
 
 residual sugar, total sulfur dioxide, pH and sulphates are dropped as they have weak correlation under 0.05
